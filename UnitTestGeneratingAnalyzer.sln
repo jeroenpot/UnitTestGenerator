@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeneratingAnalyzer", "UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.csproj", "{A35B0BCC-509B-4444-9B87-3F9088F194F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeneratingAnalyzer", "UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.csproj", "{A35B0BCC-509B-4444-9B87-3F9088F194F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeneratingAnalyzer.Test", "UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Test\UnitTestGeneratingAnalyzer.Test.csproj", "{3BB5BA93-F1C4-48F2-AB24-4284BF7772BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeneratingAnalyzer.Test", "UnitTestGeneratingAnalyzer.Test\UnitTestGeneratingAnalyzer.Test.csproj", "{3BB5BA93-F1C4-48F2-AB24-4284BF7772BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeneratingAnalyzer.Vsix", "UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Vsix\UnitTestGeneratingAnalyzer.Vsix.csproj", "{1E136113-9194-4EB3-8999-42E1E33BADC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeneratingAnalyzer.Vsix", "UnitTestGeneratingAnalyzer.Vsix\UnitTestGeneratingAnalyzer.Vsix.csproj", "{1E136113-9194-4EB3-8999-42E1E33BADC1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnderTest", "UnderTest", "{91C381E9-22D1-4A13-A443-49F443FE2633}"
 EndProject

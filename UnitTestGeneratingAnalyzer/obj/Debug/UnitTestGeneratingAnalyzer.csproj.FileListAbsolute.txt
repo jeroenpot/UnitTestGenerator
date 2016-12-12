@@ -18,3 +18,13 @@ D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnaly
 D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.csproj.GenerateResource.Cache
 D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.dll
 D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.pdb
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.Resources.resources
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.csproj.GenerateResource.Cache
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\bin\Debug\Diagnostic.nuspec
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\bin\Debug\tools\install.ps1
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\bin\Debug\tools\uninstall.ps1
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\bin\Debug\UnitTestGeneratingAnalyzer.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\bin\Debug\UnitTestGeneratingAnalyzer.pdb
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\obj\Debug\UnitTestGeneratingAnalyzer.pdb

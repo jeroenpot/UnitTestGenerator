@@ -9,3 +9,14 @@ C:\Users\Tuba\Desktop\Roslyn presentation\Projects\UnitTestGeneratingAnalyzer\Un
 C:\Users\Tuba\Desktop\Roslyn presentation\Projects\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Vsix\obj\Debug\UnitTestGeneratingAnalyzer.dll
 C:\Users\Tuba\Desktop\Roslyn presentation\Projects\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Vsix\obj\Debug\UnitTestGeneratingAnalyzer.pdb
 C:\Users\Tuba\Desktop\Roslyn presentation\Projects\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\bin\Debug\Diagnostic.nuspec
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\bin\Debug\tools\install.ps1
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\bin\Debug\tools\uninstall.ps1
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\bin\Debug\UnitTestGeneratingAnalyzer.vsix
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\bin\Debug\extension.vsixmanifest
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\bin\Debug\UnitTestGeneratingAnalyzer.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\bin\Debug\UnitTestGeneratingAnalyzer.pdb
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\obj\Debug\UnitTestGeneratingAnalyzer.Vsix.csprojResolveAssemblyReference.cache
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\obj\Debug\UnitTestGeneratingAnalyzer.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\obj\Debug\UnitTestGeneratingAnalyzer.pdb
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
