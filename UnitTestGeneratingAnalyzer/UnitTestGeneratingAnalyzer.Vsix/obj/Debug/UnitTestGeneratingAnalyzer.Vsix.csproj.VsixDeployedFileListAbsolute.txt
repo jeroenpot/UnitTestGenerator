@@ -1,6 +1,0 @@
-C:\Users\Tuba\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Tuba\UnitTestGeneratingAnalyzer.Vsix\1.0\\UnitTestGeneratingAnalyzer.dll
-C:\Users\Tuba\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Tuba\UnitTestGeneratingAnalyzer.Vsix\1.0\\extension.vsixmanifest
-C:\Users\Tuba\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Tuba\UnitTestGeneratingAnalyzer.Vsix\1.0\\Diagnostic.nuspec
-C:\Users\Tuba\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Tuba\UnitTestGeneratingAnalyzer.Vsix\1.0\\tools\install.ps1
-C:\Users\Tuba\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Tuba\UnitTestGeneratingAnalyzer.Vsix\1.0\\tools\uninstall.ps1
-C:\Users\Tuba\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Tuba\UnitTestGeneratingAnalyzer.Vsix\1.0\\UnitTestGeneratingAnalyzer.pdb
