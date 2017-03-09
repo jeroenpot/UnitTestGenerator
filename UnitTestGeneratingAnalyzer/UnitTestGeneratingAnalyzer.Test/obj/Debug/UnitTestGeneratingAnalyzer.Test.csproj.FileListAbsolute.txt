@@ -94,3 +94,4 @@ D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnaly
 D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Test\obj\Debug\UnitTestGeneratingAnalyzer.Test.csprojResolveAssemblyReference.cache
 D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Test\obj\Debug\UnitTestGeneratingAnalyzer.Test.dll
 D:\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Test\obj\Debug\UnitTestGeneratingAnalyzer.Test.pdb
+C:\Users\tuba\Projects\UnitTestGenerator\UnitTestGeneratingAnalyzer\UnitTestGeneratingAnalyzer.Test\obj\Debug\UnitTestGeneratingAnalyzer.Test.csprojResolveAssemblyReference.cache

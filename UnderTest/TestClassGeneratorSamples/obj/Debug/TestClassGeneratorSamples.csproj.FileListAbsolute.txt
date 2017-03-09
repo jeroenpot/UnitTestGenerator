@@ -10,3 +10,11 @@ D:\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\nuni
 D:\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\Rhino.Mocks.xml
 D:\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\obj\Debug\TestClassGeneratorSamples.dll
 D:\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\obj\Debug\TestClassGeneratorSamples.pdb
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\TestClassGeneratorSamples.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\TestClassGeneratorSamples.pdb
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\nunit.framework.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\Rhino.Mocks.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\nunit.framework.xml
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\bin\Debug\Rhino.Mocks.xml
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\obj\Debug\TestClassGeneratorSamples.dll
+C:\Users\tuba\Projects\UnitTestGenerator\UnderTest\TestClassGeneratorSamples\obj\Debug\TestClassGeneratorSamples.pdb

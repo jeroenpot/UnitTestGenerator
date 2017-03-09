@@ -1,0 +1,10 @@
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\bin\Debug\Diagnostic.nuspec
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\bin\Debug\tools\install.ps1
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\bin\Debug\tools\uninstall.ps1
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\bin\Debug\TestGenerator.dll
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojResolveAssemblyReference.cache
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Resources.resources
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.Cache
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\obj\Debug\TestGenerator.dll
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb

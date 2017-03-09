@@ -1,0 +1,11 @@
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\bin\Debug\Diagnostic.nuspec
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\bin\Debug\tools\install.ps1
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\bin\Debug\tools\uninstall.ps1
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\bin\Debug\TestGenerator.Vsix.vsix
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\bin\Debug\extension.vsixmanifest
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\bin\Debug\TestGenerator.dll
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\bin\Debug\TestGenerator.pdb
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\obj\Debug\TestGenerator.Vsix.csprojResolveAssemblyReference.cache
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\obj\Debug\TestGenerator.Vsix.dll
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\obj\Debug\TestGenerator.Vsix.pdb
+C:\Users\tuba\Projects\TestGenerator\TestGenerator\TestGenerator\TestGenerator.Vsix\obj\Debug\extension.vsixmanifest
